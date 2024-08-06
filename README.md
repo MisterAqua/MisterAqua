@@ -1,4 +1,4 @@
-- 👋 Olá, I’m @MisterAqua
+- 👋 Olá, eu sou @MisterAqua
 - 👀 Eu me interesso em tecnologias back-end para desenvolvimento web
 - 🌱 Atualmente etsou aprendendo Node.js + Prisma
 - 💞️ Estou muito interessado em participar de projetos open sources como fonte de conhecimento!
